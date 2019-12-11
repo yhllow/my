@@ -6,8 +6,4 @@
 /.idea
 /.project
 /.settings
-/nb*
-/release.properties
 /target
-/**/target
-/bin/
